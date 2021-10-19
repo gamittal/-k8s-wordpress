@@ -1,2 +1,2 @@
 # -k8s-wordpress
-word press with mysql backend for teting
+word press with mysql backend for testing
